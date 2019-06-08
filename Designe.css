@@ -1,0 +1,88 @@
+/*This block is used to whole document */
+div.container{
+
+width:100%;
+border:2px solid;
+line-height:150%;
+background-color:#f8f8ff;
+}
+
+
+
+
+
+
+
+	
+
+/*This block is used to welcome line*/
+div.welcomeline{
+
+color:black;
+clear:left;
+}
+/* This block creat to slide show*/
+div.slideshow{
+
+color:black;
+padding:1em 1em 1em 1em;
+background-color:#ff6600;
+clear:left;
+
+max-width:100%;
+}
+.myslides{display:none;}/* this is came from w3sc*/
+
+
+
+
+
+
+/*this block is used for the navigation bar*/
+div.nav-bar{
+
+color:white;
+background-color:#FF6600;
+clear:left;
+text-align:center;
+font-size:15px;
+font-family:Elephant;
+
+}
+
+
+/*this is used to left section*/
+div.left{
+float:left;
+width:200px;
+height:800px;
+margin-left:5px;
+margin-top:100px;
+padding:1em;
+background-color:#3366ff;
+}
+/* this is used for the content*/
+div.content{
+margin-left:200px;
+border-left:1px solid green;
+padding:1em;
+
+
+}
+
+
+
+#submit{
+		background:url(images/send.png) no-repeat;
+	height: 36px;
+	margin-left:222px;
+	padding: 0;
+	width: 186px;
+	
+	
+}
+
+
+/* this block is creat the footer*/.
+
+

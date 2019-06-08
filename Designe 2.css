@@ -1,0 +1,52 @@
+div.p01{
+	
+	font-size:30px;
+	margin-left:300px;
+	color:#FF6600;
+	font-family:Hobo Std;
+	
+	
+}
+
+div.tabs{
+	
+	
+	height:600px;
+	max-width:100%;
+	
+}
+
+
+div.textd{
+	
+	text-decoration:none;
+	
+	
+}
+div.pfont{
+	font-style:italic;
+	color:gray;
+	font-family:Hobo Std;
+	
+	
+	
+}
+
+
+div.form[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+div.buttton[type=button], input[type=submit], input[type=reset] {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

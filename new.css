@@ -1,0 +1,165 @@
+div.container{
+	width:100%;
+	margin:0px;
+	border:2px;
+	line height:250px;
+	background-color:black;
+
+}
+div.container02{
+	
+	background-color:gray;
+	
+}
+
+
+div.welcomeline{
+	padding:0.1px;
+	color:black;
+	background-image:url(Images00/LOGO123.jpg);
+	
+	height:150px;
+	width:1200px;
+	margin-left:50px;
+	margin-top:50px;
+	background-color:green;
+	clear:left;
+}
+
+div.nav-bar{
+	padding:0.5em;
+	color:orange;
+	background-color:black;
+	clear:left;
+	text-align:center;
+	
+	
+}
+
+div.slideshow{
+	padding:0.1px 0.1px 0.1px 0.1px;
+	color:black;
+	background-color:white;
+	clear:left;
+	height:20px;
+	
+	
+}
+
+
+div.myslideshow{
+	float:left;
+	width:160px;
+	margin:0px;
+	padding:1em;
+	
+	
+}
+
+div.footer{
+	height:100px;
+ 
+	background-color:#ff9800;
+	clear:left;
+	text-align:center;
+}
+
+div.footer{
+	
+	background-color:#ff6600;
+	clear:left;
+	font-family:Comic Sans MS;
+	
+}
+
+
+
+
+div.margin{
+	margin-left:50px;
+	
+	
+}
+
+
+div.bgimg{
+	background-image:url(Images00/Sinharaja001.jpg);
+	height:600px;
+	max-width:100%;
+	
+	
+	
+}
+div.bgimg01{
+	
+background-image:url(Images00/unawatu00.jpg);
+	height:600px;
+	max-width:100%;	
+	
+	
+}
+
+
+
+
+div.bgfont{
+	
+	font-family:Gill Sans MT Condensed;
+	font-size:40px;
+	margin-left:150px;
+	color:white;
+	
+}
+
+
+
+div.carousel-inner img {
+     -webkit-filter: grayscale(90%);
+      filter: grayscale(90%); /* make all photos black and white */ 
+      width: 100%; /* Set width to 100% */
+	margin: auto;
+	}
+
+
+
+
+
+
+div.more{
+	background-image:url(Images00/Anuradhapura.jpg);
+	height:300px;
+	width:400px;
+	
+	
+	
+	
+	
+}
+
+
+div.coverimg{
+	background-image:url(Images00/cover010.jpg);
+	height:150px;
+	max-width:100%;
+	
+	
+	
+}
+
+
+
+
+/* Create a Parallax Effect */
+.bgimg-1{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+    background-image: url(Images00/Sinharaja001.jpg);
+    min-height: 80%;
+}
